@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Jovic-hub.github.io/static/css/main.7d5df9ef.chunk.css",
+    "main.js": "/Jovic-hub.github.io/static/js/main.ca8b6013.chunk.js",
+    "main.js.map": "/Jovic-hub.github.io/static/js/main.ca8b6013.chunk.js.map",
+    "runtime-main.js": "/Jovic-hub.github.io/static/js/runtime-main.4c4d3767.js",
+    "runtime-main.js.map": "/Jovic-hub.github.io/static/js/runtime-main.4c4d3767.js.map",
+    "static/js/2.f66bb221.chunk.js": "/Jovic-hub.github.io/static/js/2.f66bb221.chunk.js",
+    "static/js/2.f66bb221.chunk.js.map": "/Jovic-hub.github.io/static/js/2.f66bb221.chunk.js.map",
+    "index.html": "/Jovic-hub.github.io/index.html",
+    "static/css/main.7d5df9ef.chunk.css.map": "/Jovic-hub.github.io/static/css/main.7d5df9ef.chunk.css.map",
+    "static/js/2.f66bb221.chunk.js.LICENSE.txt": "/Jovic-hub.github.io/static/js/2.f66bb221.chunk.js.LICENSE.txt",
+    "static/media/c++.727df6d0.png": "/Jovic-hub.github.io/static/media/c++.727df6d0.png",
+    "static/media/cplus.52cac406.png": "/Jovic-hub.github.io/static/media/cplus.52cac406.png",
+    "static/media/heroku.761860d9.png": "/Jovic-hub.github.io/static/media/heroku.761860d9.png",
+    "static/media/jorge.b8543c6b.png": "/Jovic-hub.github.io/static/media/jorge.b8543c6b.png",
+    "static/media/jovic.888ac4a3.png": "/Jovic-hub.github.io/static/media/jovic.888ac4a3.png",
+    "static/media/jovic.dcf0b3a1.jfif": "/Jovic-hub.github.io/static/media/jovic.dcf0b3a1.jfif",
+    "static/media/js.6ffe12db.png": "/Jovic-hub.github.io/static/media/js.6ffe12db.png",
+    "static/media/mail.a2e47e52.png": "/Jovic-hub.github.io/static/media/mail.a2e47e52.png",
+    "static/media/mongodb.762ed694.png": "/Jovic-hub.github.io/static/media/mongodb.762ed694.png",
+    "static/media/switch.scss": "/Jovic-hub.github.io/static/media/sun.d556e2de.png",
+    "static/media/mysql.8f564d75.png": "/Jovic-hub.github.io/static/media/mysql.8f564d75.png",
+    "static/media/oriented.b5f17092.jpg": "/Jovic-hub.github.io/static/media/oriented.b5f17092.jpg",
+    "static/media/quiz.072a1abe.jpg": "/Jovic-hub.github.io/static/media/quiz.072a1abe.jpg",
+    "static/media/rails.d12919bd.png": "/Jovic-hub.github.io/static/media/rails.d12919bd.png",
+    "static/media/react.93310369.png": "/Jovic-hub.github.io/static/media/react.93310369.png",
+    "static/media/room.0e0ffe94.png": "/Jovic-hub.github.io/static/media/room.0e0ffe94.png",
+    "static/media/ruby.0b422d19.png": "/Jovic-hub.github.io/static/media/ruby.0b422d19.png",
+    "static/media/space.722e83f8.png": "/Jovic-hub.github.io/static/media/space.722e83f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c4d3767.js",
+    "static/js/2.f66bb221.chunk.js",
+    "static/css/main.7d5df9ef.chunk.css",
+    "static/js/main.ca8b6013.chunk.js"
+  ]
+}
